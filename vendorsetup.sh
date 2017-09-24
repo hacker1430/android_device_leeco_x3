@@ -1,1 +1,1 @@
-add_lunch_combo crdroid_x3-userdebug
+add_lunch_combo rr_x3-userdebug
