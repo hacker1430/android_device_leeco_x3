@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/halogen_x3.mk
+	$(LOCAL_DIR)/xos_x3.mk
