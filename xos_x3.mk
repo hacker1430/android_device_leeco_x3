@@ -9,7 +9,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Inherit some common xos stuff.
-$(call inherit-product, vendor/xosp/config/xosp.mk)
+$(call inherit-product, vendor/xos/config/common.mk)
 
 # Device display
 TARGET_SCREEN_HEIGHT := 1920
